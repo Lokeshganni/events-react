@@ -1,0 +1,44 @@
+.registration-details-container {
+  padding: 30px 20px;
+  font-size: 28px;
+  text-align: center;
+}
+
+.yet-to-register-container {
+  padding: 20px 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.yet-to-register-container h1 {
+  font-size: 28px;
+}
+
+.yet-to-register-container p {
+  text-align: center;
+}
+
+.yet-to-register-container img {
+  width: 50%;
+}
+
+.registered-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 30px;
+}
+
+.registered-container img {
+  width: 100px;
+}
+
+.registered-container p {
+  font-size: 26px;
+  text-align: center;
+}

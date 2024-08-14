@@ -1,0 +1,27 @@
+.app-container {
+  padding: 0;
+  margin: 0;
+  color: white;
+  font-family: 'Roboto';
+  display: flex;
+}
+
+.events-container {
+  background-color: #64748b;
+  width: 55%;
+  margin: 0;
+  padding: 10px 25px;
+}
+
+.events-container ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0;
+}
+
+.registration-res-container {
+  background-color: #f8fafc;
+  width: 45%;
+  color: black;
+}
